@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DELIMITER"],"struct":["BytesAdapter","CatalogScoped"],"trait":["MetaKey"]};
